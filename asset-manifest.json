@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BSSM_REACT_PROJECT/static/css/main.b83129ee.css",
-    "main.js": "/BSSM_REACT_PROJECT/static/js/main.d01a1cc8.js",
+    "main.js": "/BSSM_REACT_PROJECT/static/js/main.24f96e0b.js",
     "index.html": "/BSSM_REACT_PROJECT/index.html",
     "main.b83129ee.css.map": "/BSSM_REACT_PROJECT/static/css/main.b83129ee.css.map",
-    "main.d01a1cc8.js.map": "/BSSM_REACT_PROJECT/static/js/main.d01a1cc8.js.map"
+    "main.24f96e0b.js.map": "/BSSM_REACT_PROJECT/static/js/main.24f96e0b.js.map"
   },
   "entrypoints": [
     "static/css/main.b83129ee.css",
-    "static/js/main.d01a1cc8.js"
+    "static/js/main.24f96e0b.js"
   ]
 }
