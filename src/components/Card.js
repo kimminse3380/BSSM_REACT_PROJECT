@@ -8,4 +8,4 @@ function Card({item, id, handleClick}){
     )
 }
 
-export default Card
+export default Card;
